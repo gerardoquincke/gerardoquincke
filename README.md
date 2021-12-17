@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gerardo Quincke - @gerardoquincke
 - 👀 I write learning activities in C and Python languages
 - 🌱 I’m currently an Operating Systems professor at the Universidad de Montevideo in Uruguay
-- 💞️ I also work for IBM since 1988.
+- 💞️ Former IBMer, now I'm a team leader @QualabsUy
 - 📫 Twitter: @gerardoquincke
 
 <!---
